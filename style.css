@@ -1,0 +1,273 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    padding:12px 4%;
+    background-color: #303030 !important;
+}
+.nav-link{
+    color: white !important;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    padding: 0 20px !important;
+}
+.bi-search{
+    color: white;
+    font-size: 25px;
+}
+.banner{
+    background-image: url(banner-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+}
+.banner .row{
+    margin: 0 !important;
+}
+.ban-text-div{
+    margin-top: 267px;
+    padding-bottom: 83px;
+    margin-left: 80px;
+    width: 800px;
+    margin-right: 80px;
+}
+.ban-title{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-size: 124.63px;
+    margin-bottom: 36px;
+}
+.ban-text{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 29.72px;
+    margin-bottom: 46px;
+}
+.ban-btn{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-size: 29.72px;
+    background-color: #e8631c;
+    padding: 15px 70px;
+}
+.dance{
+    background-image: url(bg-color.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tour{
+    width: 100%;
+    padding: 15% 10%;
+    background-image: url(bg-shape.png);
+    background-repeat: no-repeat;
+    background-position-y: -420px;
+}
+.tour-title{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 75px;
+    margin-bottom: 55px;
+}
+.tour-text{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 29.72px;
+    margin-bottom: 80px;
+}
+.tour-card{
+    background-color: #303030;
+    width: 372px;
+    color: white;
+    padding: 30px;
+}
+.card-title{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-size: 36.95px;
+}
+.card-text{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 22.17px;
+}
+.price{
+    background-color: #303030;
+    padding: 15% 10%;
+    background-image: url(bg-shape3.png), url(bg-shape2.png);
+    background-repeat: no-repeat;
+    background-position-y: 598px, -430px;
+    background-position-x: right, 0;
+}
+.s-card{
+    background-color: #e8631c;
+    width: 372px;
+    padding: 15% 6% 8% 6%;
+    border-radius: 10px;
+}
+.s-card button{
+    width: 100%;
+    font-size: 25px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    height: 60px;
+    background-color: #303030;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+}
+.card-title{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.card-text{
+    margin-bottom: 30px;
+}
+.ab{
+    background-color: #e8631c;
+    background-image: url(bg-shape3.png);
+    background-position-x: right;
+    background-repeat: no-repeat;
+    background-position-y: -621px;
+}
+.ab-img{
+    width: 100%;
+}
+.ab-title{
+    font-size: 75px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    margin-bottom: 60px;
+}
+.ab-text{
+    font-size: 29.72px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    margin-bottom: 60px;
+}
+.ab-btn{
+    font-size: 29.17px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    color: white;
+    background-color: #303030;
+    padding: 15px 100px;
+    border: 0;
+    border-radius: 5px;
+}
+#text{
+    width: 80%;
+}
+.bg-img{
+    background-image: url(bg-shape4.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: 500px;
+    padding: 0 !important;
+
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+}
+.bg-img2{
+    background-image: url(bg-shape5.png);
+    background-repeat: no-repeat;
+    background-position-y: 500px;
+
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+}
+.statistic{
+    background-color: #303030;
+    padding: 13% 15%;
+}
+.s-title{
+    font-size: 75px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    margin-bottom: 60px;
+}
+.s-text{
+    font-size: 29.72px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    margin-bottom: 190px;
+}
+.num{
+    font-size: 66.48px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+}
+.comunity{
+    font-size: 41.67px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+}
+.herbert{
+    background-image: url(BOOTEX.LOG.png);
+    background-color: #e8631c;
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 20% 15%;
+}
+.h-text{
+    font-size: 50px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+}
+.h-title{
+    font-size: 58.33px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    margin-top: 80px;
+}
+.sub{
+    background-color: #e8631c;
+    padding: 15% 20%;
+    background-image: url(left-shape.png), url(right-Shape.png);
+    background-repeat: no-repeat;
+    background-position-x: left, right;
+    background-position-y: center;
+}
+.sub-title{
+    font-size: 75px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    margin-bottom: 60px;
+}
+.sub-text{
+    font-size: 29.72px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    margin-bottom: 55px;
+}
+.email{
+    width: 70% !important;
+    border: 0;
+    height: 60px;
+    border-radius: 0;
+}
+::placeholder{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 1.4vw;
+    padding-left: 8%;
+}
+.sub-btn{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 1.4vw;
+    height: 60px;
+    border: 0;
+    background-color: #303030;
+    color: white;
+    width: 25%;
+    border-radius: 0;
+}
+.sub-btn:hover{
+    color: white !important;
+}
